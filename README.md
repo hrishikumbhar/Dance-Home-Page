@@ -16,7 +16,7 @@
 
 ### This project took around 3 hours to complete.
 
-### Project Link : [Link](https://business-landing-page-dashboard.netlify.app/)
+### Project Link : [Link](https://dance-home-dashboard.netlify.app/)
 
 ### Screenshot
 
