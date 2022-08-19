@@ -16,8 +16,8 @@
 
 ### This project took around 3 hours to complete.
 
-### Project Link : [Link](https://dance-home-dashboard.netlify.app/)
+### Project Link : [Link](https://proj-14-dance-home-page.netlify.app/)
 
 ### Screenshot
 
-![](./screenshot/proj14.png)
+![](./screenshot/PROJ_14.png)
